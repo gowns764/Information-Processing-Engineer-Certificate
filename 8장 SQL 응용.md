@@ -1,4 +1,4 @@
-# 8장 SQL 응용
+# 8장 SQL 응용 (11%)
 
 ## 1. SQL - DDL (Data Define Language, 데이터 정의어)
 - DDL은 DB 구조, 데이터 형식, 접근 방식 등 DB를 구축하거나 수정할 목적으로 사용하는 언어이다.
